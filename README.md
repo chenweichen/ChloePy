@@ -1,2 +1,2 @@
 # Python Teaching Material 
-T
+This python teaching material for Chloe.
